@@ -76,3 +76,5 @@ This is how you can compose commands in different ways for different cases.
 Remember to actually make changes you must pass the `-write`, but always test first.
 
 ## Notes
+
+- For something even cooler, could explore: http://www.autohotkey.com/
