@@ -34,6 +34,8 @@ C:\Users\collin\jmoney\testdir\dir3withsub\subdir1 ==> C:\Users\collin\jmoney\te
 C:\Users\collin\jmoney\testdir\dir3withsub\subdir1\subsubdir1 ==> C:\Users\collin\jmoney\testdir\dir3withsub\subdir1\CLIENTNAME-subsubdir1-AUDIT1
 ```
 
+> Note the output format: `sourcepath ==> destination_after_rename`
+
 ## Usage
 
 - Download the .zip of this and extract it somewhere
